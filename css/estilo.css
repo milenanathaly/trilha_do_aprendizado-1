@@ -1,0 +1,24 @@
+.header{
+    text-align: center;
+    margin: 20px 0;
+    background-color: tomato;
+    padding: 10px;
+}
+.header h2{
+    font-size: 28px;
+}
+.informacoes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(161, 0, 0);
+}
+.informacoes h2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.informacoes a{
+    color: white;
+    padding: 5px 0;
+    margin: 5px 0;
+}
